@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Centaurea-Dev\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Centaurea-Dev\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

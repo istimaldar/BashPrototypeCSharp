@@ -1,0 +1,10 @@
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\bin\Debug\netcoreapp2.1\BashExecutorPrototype.deps.json
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\bin\Debug\netcoreapp2.1\BashExecutorPrototype.runtimeconfig.json
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\bin\Debug\netcoreapp2.1\BashExecutorPrototype.runtimeconfig.dev.json
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\bin\Debug\netcoreapp2.1\BashExecutorPrototype.dll
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\bin\Debug\netcoreapp2.1\BashExecutorPrototype.pdb
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\obj\Debug\netcoreapp2.1\BashExecutorPrototype.csproj.CoreCompileInputs.cache
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\obj\Debug\netcoreapp2.1\BashExecutorPrototype.AssemblyInfoInputs.cache
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\obj\Debug\netcoreapp2.1\BashExecutorPrototype.AssemblyInfo.cs
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\obj\Debug\netcoreapp2.1\BashExecutorPrototype.dll
+c:\users\centaurea-dev\source\repos\BashExecutorPrototype\BashExecutorPrototype\obj\Debug\netcoreapp2.1\BashExecutorPrototype.pdb
